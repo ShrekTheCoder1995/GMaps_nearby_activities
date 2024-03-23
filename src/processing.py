@@ -57,7 +57,7 @@ def read_raw_data():
     return df
 
 def process():
-    gmaps: googlemaps.client.Client = googlemaps.Client(key = "AIzaSyCMhlhc38k2F_3l4lhNafmV8r6lzRXP2-8")
+    gmaps: googlemaps.client.Client = googlemaps.Client(key = settings.gmaps_api_key)
     raw_df: pd.DataFrame = read_raw_data()
     output_df: pd.DataFrame = pd.DataFrame(columns = settings.house_activity_columns)
 

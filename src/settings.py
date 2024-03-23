@@ -7,6 +7,7 @@ class Settings():
     outputdir: Path = basedir / "data" / "processed"
     raw_processed_filename: str = "Huisjes.xlsx"
     logdir: Path = basedir / "log"
+    gmaps_api_key: str = open('gmaps_api_key.txt').read()
     
     house_activity_columns: list = [
         "House_address",
