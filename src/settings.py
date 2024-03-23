@@ -1,10 +1,11 @@
 from pathlib import Path
-from pydantic import BaseModel
 from loguru import logger
 
-class Settings(BaseModel):
+class Settings():
     basedir: Path = Path.cwd()
-    outputdir: Path = Path("processed_data")
+    rawdir: Path = basedir / "data" / "raw"
+    outputdir: Path = basedir / "data" / "processed"
+    raw_processed_filename: str = "Huisjes.xlsx"
     logdir: Path = basedir / "log"
     
     house_activity_columns: list = [
@@ -18,22 +19,15 @@ class Settings(BaseModel):
         "Activity_type",
     ]
 
-    addresses: list = [
-        "Oosteinde 14, Wapserveen",
-        "Marktvelderweg, Haaksbergen",
-        "Groenendries, Huijbergen",
-        "Oldenzaalsestraat 135, Losser",
-    ]
-
     type_activities: list = [
-        "Supermarkt",
-        "Zwembad",
-        "Klimbos",
-        "VR Game",
-        "Lasergame",
-        "Escaperoom",
-        "Pretpark",
-        "Basic Fit"
+        "Supermarkt"#,
+        # "Zwembad",
+        # "Klimbos",
+        # "VR Game",
+        # "Lasergame",
+        # "Escaperoom",
+        # "Pretpark",
+        # "Basic Fit"
     ]
 
 settings = Settings()
