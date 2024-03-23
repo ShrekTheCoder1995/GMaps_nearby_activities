@@ -20,14 +20,14 @@ class Settings():
     ]
 
     type_activities: list = [
-        "Supermarkt"#,
-        # "Zwembad",
-        # "Klimbos",
-        # "VR Game",
-        # "Lasergame",
-        # "Escaperoom",
-        # "Pretpark",
-        # "Basic Fit"
+        "Supermarkt",
+        "Zwembad",
+        "Klimbos",
+        "VR Game",
+        "Lasergame",
+        "Escaperoom",
+        "Pretpark",
+        "Basic Fit"
     ]
 
 settings = Settings()
