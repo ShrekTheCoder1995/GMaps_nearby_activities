@@ -1,72 +1,120 @@
-2024-03-23 16:28:17.371 | INFO     | processing:find_activities:36 - Found 8x Supermarkt in a radius of 10.0 km
-2024-03-23 16:28:18.230 | INFO     | processing:find_activities:36 - Found 12x Zwembad in a radius of 15.0 km
-2024-03-23 16:28:19.996 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 25.0 km
-2024-03-23 16:28:23.564 | INFO     | processing:find_activities:36 - Found 6x VR Game in a radius of 45.0 km
-2024-03-23 16:28:24.751 | INFO     | processing:find_activities:36 - Found 4x Lasergame in a radius of 20.0 km
-2024-03-23 16:28:25.908 | INFO     | processing:find_activities:36 - Found 7x Escaperoom in a radius of 20.0 km
-2024-03-23 16:28:27.141 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 20.0 km
-2024-03-23 16:28:28.647 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 20.0 km
-2024-03-23 16:28:28.648 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:28:29.083 | INFO     | processing:find_activities:36 - Found 17x Supermarkt in a radius of 10.0 km
-2024-03-23 16:28:29.455 | INFO     | processing:find_activities:36 - Found 4x Zwembad in a radius of 10.0 km
-2024-03-23 16:28:31.148 | INFO     | processing:find_activities:36 - Found 5x Klimbos in a radius of 25.0 km
-2024-03-23 16:28:32.425 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 20.0 km
-2024-03-23 16:28:33.663 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 20.0 km
-2024-03-23 16:28:34.620 | INFO     | processing:find_activities:36 - Found 6x Escaperoom in a radius of 15.0 km
-2024-03-23 16:28:35.722 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 15.0 km
-2024-03-23 16:28:36.624 | INFO     | processing:find_activities:36 - Found 7x Basic Fit in a radius of 15.0 km
-2024-03-23 16:28:36.625 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:28:37.083 | INFO     | processing:find_activities:36 - Found 15x Supermarkt in a radius of 10.0 km
-2024-03-23 16:28:37.501 | INFO     | processing:find_activities:36 - Found 4x Zwembad in a radius of 10.0 km
-2024-03-23 16:28:40.290 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 40.0 km
-2024-03-23 16:28:42.551 | INFO     | processing:find_activities:36 - Found 4x VR Game in a radius of 30.0 km
-2024-03-23 16:28:44.310 | INFO     | processing:find_activities:36 - Found 5x Lasergame in a radius of 25.0 km
-2024-03-23 16:28:45.521 | INFO     | processing:find_activities:36 - Found 7x Escaperoom in a radius of 20.0 km
-2024-03-23 16:28:48.117 | INFO     | processing:find_activities:36 - Found 4x Pretpark in a radius of 35.0 km
-2024-03-23 16:28:48.913 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 15.0 km
-2024-03-23 16:28:48.914 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:28:49.434 | INFO     | processing:find_activities:36 - Found 20x Supermarkt in a radius of 10.0 km
-2024-03-23 16:28:49.868 | INFO     | processing:find_activities:36 - Found 7x Zwembad in a radius of 10.0 km
-2024-03-23 16:28:53.011 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 40.0 km
-2024-03-23 16:28:53.842 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 15.0 km
-2024-03-23 16:28:55.040 | INFO     | processing:find_activities:36 - Found 8x Lasergame in a radius of 20.0 km
-2024-03-23 16:28:55.423 | INFO     | processing:find_activities:36 - Found 4x Escaperoom in a radius of 10.0 km
-2024-03-23 16:28:56.778 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 20.0 km
-2024-03-23 16:28:57.126 | INFO     | processing:find_activities:36 - Found 5x Basic Fit in a radius of 10.0 km
-2024-03-23 16:28:57.127 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:38:42.398 | INFO     | processing:find_activities:36 - Found 4x Supermarkt in a radius of 10.0 km
-2024-03-23 16:38:43.310 | INFO     | processing:find_activities:36 - Found 13x Zwembad in a radius of 15.0 km
-2024-03-23 16:38:44.922 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 25.0 km
-2024-03-23 16:38:48.469 | INFO     | processing:find_activities:36 - Found 6x VR Game in a radius of 45.0 km
-2024-03-23 16:38:50.178 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 25.0 km
-2024-03-23 16:38:51.273 | INFO     | processing:find_activities:36 - Found 7x Escaperoom in a radius of 20.0 km
-2024-03-23 16:38:52.428 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 20.0 km
-2024-03-23 16:38:53.754 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 20.0 km
-2024-03-23 16:38:53.755 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:38:54.249 | INFO     | processing:find_activities:36 - Found 17x Supermarkt in a radius of 10.0 km
-2024-03-23 16:38:54.674 | INFO     | processing:find_activities:36 - Found 4x Zwembad in a radius of 10.0 km
-2024-03-23 16:38:56.318 | INFO     | processing:find_activities:36 - Found 5x Klimbos in a radius of 25.0 km
-2024-03-23 16:38:57.812 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 20.0 km
-2024-03-23 16:38:59.125 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 20.0 km
-2024-03-23 16:38:59.804 | INFO     | processing:find_activities:36 - Found 6x Escaperoom in a radius of 15.0 km
-2024-03-23 16:39:00.710 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 15.0 km
-2024-03-23 16:39:01.618 | INFO     | processing:find_activities:36 - Found 7x Basic Fit in a radius of 15.0 km
-2024-03-23 16:39:01.618 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:39:02.211 | INFO     | processing:find_activities:36 - Found 15x Supermarkt in a radius of 10.0 km
-2024-03-23 16:39:02.568 | INFO     | processing:find_activities:36 - Found 4x Zwembad in a radius of 10.0 km
-2024-03-23 16:39:05.329 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 40.0 km
-2024-03-23 16:39:07.421 | INFO     | processing:find_activities:36 - Found 4x VR Game in a radius of 30.0 km
-2024-03-23 16:39:08.752 | INFO     | processing:find_activities:36 - Found 5x Lasergame in a radius of 20.0 km
-2024-03-23 16:39:09.881 | INFO     | processing:find_activities:36 - Found 8x Escaperoom in a radius of 20.0 km
-2024-03-23 16:39:12.603 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 40.0 km
-2024-03-23 16:39:13.368 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 15.0 km
-2024-03-23 16:39:13.368 | INFO     | processing:process:76 - =====================================
-2024-03-23 16:39:13.858 | INFO     | processing:find_activities:36 - Found 20x Supermarkt in a radius of 10.0 km
-2024-03-23 16:39:14.396 | INFO     | processing:find_activities:36 - Found 7x Zwembad in a radius of 10.0 km
-2024-03-23 16:39:17.103 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 40.0 km
-2024-03-23 16:39:17.992 | INFO     | processing:find_activities:36 - Found 8x VR Game in a radius of 15.0 km
-2024-03-23 16:39:19.180 | INFO     | processing:find_activities:36 - Found 8x Lasergame in a radius of 20.0 km
-2024-03-23 16:39:19.865 | INFO     | processing:find_activities:36 - Found 7x Escaperoom in a radius of 15.0 km
-2024-03-23 16:39:21.093 | INFO     | processing:find_activities:36 - Found 5x Pretpark in a radius of 20.0 km
-2024-03-23 16:39:21.585 | INFO     | processing:find_activities:36 - Found 5x Basic Fit in a radius of 10.0 km
-2024-03-23 16:39:21.586 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:36:35.504 | INFO     | processing:find_activities:36 - Found 7x Supermarket in a radius of 10.0 km
+2024-03-23 17:36:36.511 | INFO     | processing:find_activities:36 - Found 13x Swimming Pool in a radius of 15.0 km
+2024-03-23 17:36:40.109 | INFO     | processing:find_activities:36 - Found 6x VR Game in a radius of 45.0 km
+2024-03-23 17:36:41.604 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 25.0 km
+2024-03-23 17:36:43.507 | INFO     | processing:find_activities:36 - Found 7x Escape Room in a radius of 20.0 km
+2024-03-23 17:36:45.364 | INFO     | processing:find_activities:36 - Found 4x Amusement Park in a radius of 25.0 km
+2024-03-23 17:36:46.670 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 20.0 km
+2024-03-23 17:36:46.671 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:36:47.160 | INFO     | processing:find_activities:36 - Found 15x Supermarket in a radius of 10.0 km
+2024-03-23 17:36:48.074 | INFO     | processing:find_activities:36 - Found 10x Swimming Pool in a radius of 15.0 km
+2024-03-23 17:36:49.594 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 20.0 km
+2024-03-23 17:36:50.885 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 20.0 km
+2024-03-23 17:36:51.959 | INFO     | processing:find_activities:36 - Found 6x Escape Room in a radius of 15.0 km
+2024-03-23 17:36:52.891 | INFO     | processing:find_activities:36 - Found 4x Amusement Park in a radius of 15.0 km
+2024-03-23 17:36:53.925 | INFO     | processing:find_activities:36 - Found 7x Basic Fit in a radius of 15.0 km
+2024-03-23 17:36:53.925 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:36:54.347 | INFO     | processing:find_activities:36 - Found 13x Supermarket in a radius of 10.0 km
+2024-03-23 17:36:54.745 | INFO     | processing:find_activities:36 - Found 4x Swimming Pool in a radius of 10.0 km
+2024-03-23 17:36:57.028 | INFO     | processing:find_activities:36 - Found 4x VR Game in a radius of 30.0 km
+2024-03-23 17:36:58.737 | INFO     | processing:find_activities:36 - Found 5x Lasergame in a radius of 25.0 km
+2024-03-23 17:36:59.959 | INFO     | processing:find_activities:36 - Found 7x Escape Room in a radius of 20.0 km
+2024-03-23 17:37:02.396 | INFO     | processing:find_activities:36 - Found 8x Amusement Park in a radius of 30.0 km
+2024-03-23 17:37:03.315 | INFO     | processing:find_activities:36 - Found 7x Basic Fit in a radius of 15.0 km
+2024-03-23 17:37:03.316 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:37:03.718 | INFO     | processing:find_activities:36 - Found 20x Supermarket in a radius of 10.0 km
+2024-03-23 17:37:04.084 | INFO     | processing:find_activities:36 - Found 5x Swimming Pool in a radius of 10.0 km
+2024-03-23 17:37:05.054 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 15.0 km
+2024-03-23 17:37:06.318 | INFO     | processing:find_activities:36 - Found 8x Lasergame in a radius of 20.0 km
+2024-03-23 17:37:07.245 | INFO     | processing:find_activities:36 - Found 8x Escape Room in a radius of 15.0 km
+2024-03-23 17:37:07.720 | INFO     | processing:find_activities:36 - Found 4x Amusement Park in a radius of 10.0 km
+2024-03-23 17:37:08.120 | INFO     | processing:find_activities:36 - Found 5x Basic Fit in a radius of 10.0 km
+2024-03-23 17:37:08.120 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:40:42.681 | INFO     | processing:find_activities:36 - Found 5x Supermarket in a radius of 10.0 km
+2024-03-23 17:40:43.463 | INFO     | processing:find_activities:36 - Found 13x Swimming Pool in a radius of 15.0 km
+2024-03-23 17:40:47.394 | INFO     | processing:find_activities:36 - Found 6x VR Game in a radius of 45.0 km
+2024-03-23 17:40:48.951 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 25.0 km
+2024-03-23 17:40:50.181 | INFO     | processing:find_activities:36 - Found 7x Escape Room in a radius of 20.0 km
+2024-03-23 17:40:51.900 | INFO     | processing:find_activities:36 - Found 5x Amusement Park in a radius of 25.0 km
+2024-03-23 17:40:53.182 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 20.0 km
+2024-03-23 17:40:53.182 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:40:53.676 | INFO     | processing:find_activities:36 - Found 13x Supermarket in a radius of 10.0 km
+2024-03-23 17:40:54.632 | INFO     | processing:find_activities:36 - Found 10x Swimming Pool in a radius of 15.0 km
+2024-03-23 17:40:55.941 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 20.0 km
+2024-03-23 17:40:57.167 | INFO     | processing:find_activities:36 - Found 6x Lasergame in a radius of 20.0 km
+2024-03-23 17:40:57.908 | INFO     | processing:find_activities:36 - Found 6x Escape Room in a radius of 15.0 km
+2024-03-23 17:40:58.705 | INFO     | processing:find_activities:36 - Found 4x Amusement Park in a radius of 15.0 km
+2024-03-23 17:40:59.959 | INFO     | processing:find_activities:36 - Found 17x Basic Fit in a radius of 20.0 km
+2024-03-23 17:40:59.960 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:41:00.477 | INFO     | processing:find_activities:36 - Found 13x Supermarket in a radius of 10.0 km
+2024-03-23 17:41:00.932 | INFO     | processing:find_activities:36 - Found 4x Swimming Pool in a radius of 10.0 km
+2024-03-23 17:41:02.929 | INFO     | processing:find_activities:36 - Found 4x VR Game in a radius of 30.0 km
+2024-03-23 17:41:04.644 | INFO     | processing:find_activities:36 - Found 5x Lasergame in a radius of 25.0 km
+2024-03-23 17:41:05.871 | INFO     | processing:find_activities:36 - Found 7x Escape Room in a radius of 20.0 km
+2024-03-23 17:41:06.407 | INFO     | processing:find_activities:36 - Found 5x Amusement Park in a radius of 10.0 km
+2024-03-23 17:41:07.394 | INFO     | processing:find_activities:36 - Found 6x Basic Fit in a radius of 15.0 km
+2024-03-23 17:41:07.395 | INFO     | processing:process:76 - =====================================
+2024-03-23 17:41:07.996 | INFO     | processing:find_activities:36 - Found 20x Supermarket in a radius of 10.0 km
+2024-03-23 17:41:08.374 | INFO     | processing:find_activities:36 - Found 5x Swimming Pool in a radius of 10.0 km
+2024-03-23 17:41:09.245 | INFO     | processing:find_activities:36 - Found 7x VR Game in a radius of 15.0 km
+2024-03-23 17:41:10.433 | INFO     | processing:find_activities:36 - Found 8x Lasergame in a radius of 20.0 km
+2024-03-23 17:41:11.299 | INFO     | processing:find_activities:36 - Found 8x Escape Room in a radius of 15.0 km
+2024-03-23 17:41:11.715 | INFO     | processing:find_activities:36 - Found 6x Amusement Park in a radius of 10.0 km
+2024-03-23 17:41:12.131 | INFO     | processing:find_activities:36 - Found 5x Basic Fit in a radius of 10.0 km
+2024-03-23 17:41:12.131 | INFO     | processing:process:76 - =====================================
+2024-03-24 14:32:29.156 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-03-24 14:32:29.668 | INFO     | processing:find_activities:36 - Found 20x Pizzeria in a radius of 10.0 km
+2024-03-24 14:32:30.378 | INFO     | processing:find_activities:36 - Found 15x All You Can Eat in a radius of 10.0 km
+2024-03-24 14:32:30.379 | INFO     | processing:process:76 - =====================================
+2024-03-24 14:34:16.275 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-03-24 14:34:16.885 | INFO     | processing:find_activities:36 - Found 20x Pizzeria in a radius of 10.0 km
+2024-03-24 14:34:17.488 | INFO     | processing:find_activities:36 - Found 15x All You Can Eat in a radius of 10.0 km
+2024-03-24 14:34:17.489 | INFO     | processing:process:76 - =====================================
+2024-03-24 14:48:45.287 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-03-24 14:48:45.857 | INFO     | processing:find_activities:36 - Found 20x Pizzeria in a radius of 10.0 km
+2024-03-24 14:48:46.479 | INFO     | processing:find_activities:36 - Found 15x All You Can Eat in a radius of 10.0 km
+2024-03-24 14:48:47.016 | INFO     | processing:find_activities:36 - Found 20x Snackbar in a radius of 10.0 km
+2024-03-24 14:48:47.017 | INFO     | processing:process:76 - =====================================
+2024-03-24 15:03:09.540 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-03-24 15:03:10.147 | INFO     | processing:find_activities:36 - Found 20x Pizzeria in a radius of 10.0 km
+2024-03-24 15:03:10.646 | INFO     | processing:find_activities:36 - Found 15x All You Can Eat in a radius of 10.0 km
+2024-03-24 15:03:11.167 | INFO     | processing:find_activities:36 - Found 20x Snackbar in a radius of 10.0 km
+2024-03-24 15:03:11.768 | INFO     | processing:find_activities:36 - Found 4x McDonalds in a radius of 10.0 km
+2024-03-24 15:03:14.431 | INFO     | processing:find_activities:36 - Found 4x Burger King in a radius of 25.0 km
+2024-03-24 15:03:16.785 | INFO     | processing:find_activities:36 - Found 4x KFC in a radius of 25.0 km
+2024-03-24 15:03:16.787 | INFO     | processing:process:76 - =====================================
+2024-03-24 15:03:45.917 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-03-24 15:03:46.001 | INFO     | processing:find_activities:36 - Found 20x Pizzeria in a radius of 10.0 km
+2024-03-24 15:03:46.081 | INFO     | processing:find_activities:36 - Found 15x All You Can Eat in a radius of 10.0 km
+2024-03-24 15:03:46.156 | INFO     | processing:find_activities:36 - Found 20x Snackbar in a radius of 10.0 km
+2024-03-24 15:03:46.209 | INFO     | processing:find_activities:36 - Found 4x McDonalds in a radius of 10.0 km
+2024-03-24 15:03:46.933 | INFO     | processing:find_activities:36 - Found 4x Burger King in a radius of 25.0 km
+2024-03-24 15:03:47.147 | INFO     | processing:find_activities:36 - Found 4x KFC in a radius of 25.0 km
+2024-03-24 15:03:47.149 | INFO     | processing:process:76 - =====================================
+2024-04-29 18:25:21.535 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-04-29 18:25:22.053 | INFO     | processing:find_activities:36 - Found 20x Pizzeria in a radius of 10.0 km
+2024-04-29 18:25:22.792 | INFO     | processing:find_activities:36 - Found 15x All You Can Eat in a radius of 10.0 km
+2024-04-29 18:25:23.210 | INFO     | processing:find_activities:36 - Found 20x Snackbar in a radius of 10.0 km
+2024-04-29 18:25:23.865 | INFO     | processing:find_activities:36 - Found 4x McDonalds in a radius of 10.0 km
+2024-04-29 18:25:26.814 | INFO     | processing:find_activities:36 - Found 4x Burger King in a radius of 25.0 km
+2024-04-29 18:25:29.268 | INFO     | processing:find_activities:36 - Found 4x KFC in a radius of 25.0 km
+2024-04-29 18:25:29.269 | INFO     | processing:process:76 - =====================================
+2024-04-29 18:48:33.900 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-04-29 18:48:33.900 | INFO     | processing:process:78 - =====================================
+2024-04-29 18:48:58.695 | INFO     | processing:find_activities:36 - Found 20x Restaurant in a radius of 10.0 km
+2024-04-29 18:48:59.118 | INFO     | processing:find_activities:36 - Found 5x Zwembad in a radius of 10.0 km
+2024-04-29 18:49:00.470 | INFO     | processing:find_activities:36 - Found 6x Lasergamen in a radius of 20.0 km
+2024-04-29 18:49:02.564 | INFO     | processing:find_activities:36 - Found 4x Klimbos in a radius of 25.0 km
+2024-04-29 18:49:04.611 | INFO     | processing:find_activities:36 - Found 9x VR Game in a radius of 25.0 km
+2024-04-29 18:49:08.525 | INFO     | processing:find_activities:36 - Found 11x VR Racing in a radius of 75.0 km
+2024-04-29 18:49:10.150 | INFO     | processing:find_activities:36 - Found 4x Bowlen in a radius of 20.0 km
+2024-04-29 18:49:11.584 | INFO     | processing:find_activities:36 - Found 5x Paintball in a radius of 20.0 km
+2024-04-29 18:49:12.281 | INFO     | processing:find_activities:36 - Found 4x Escape Room in a radius of 10.0 km
+2024-04-29 18:49:13.664 | INFO     | processing:find_activities:36 - Found 4x Pretpark in a radius of 15.0 km
+2024-04-29 18:50:03.919 | INFO     | processing:find_activities:36 - Found 4x Sex Shop in a radius of 4255.0 km
+2024-04-29 18:50:04.373 | INFO     | processing:find_activities:36 - Found 9x Supermarkt in a radius of 10.0 km
+2024-04-29 18:50:05.218 | INFO     | processing:find_activities:36 - Found 6x Doolhof in a radius of 15.0 km
+2024-04-29 18:50:06.762 | INFO     | processing:find_activities:36 - Found 5x Sportveld in a radius of 20.0 km
+2024-04-29 18:50:07.167 | INFO     | processing:find_activities:36 - Found 4x Museum in a radius of 10.0 km
+2024-04-29 18:50:08.090 | INFO     | processing:find_activities:36 - Found 4x Boerengolf in a radius of 15.0 km
+2024-04-29 18:50:08.091 | INFO     | processing:process:78 - =====================================

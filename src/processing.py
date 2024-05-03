@@ -67,7 +67,9 @@ def process():
         house_location_dict["House_address"] = address
 
         house_geocode: list = gmaps.geocode(address)
-        house_lat_lon_dict: dict = house_geocode[0]["geometry"]["bounds"]["northeast"]
+        print(house_geocode[0]['geometry'])
+
+        house_lat_lon_dict: dict = house_geocode[0]["geometry"]["location"]
 
         house_location_dict["House_lat"] = house_lat_lon_dict["lat"]
         house_location_dict["House_lng"] = house_lat_lon_dict["lng"]
@@ -78,10 +80,12 @@ def process():
     for index, _ in output_df.iterrows():
         house_coords: str = str(output_df.at[index, 'House_lat']) + ', ' + str(output_df.at[index, 'House_lng'])
         activity_coords: str = str(output_df.at[index, 'Activity_lat']) + ', ' + str(output_df.at[index, 'Activity_lng'])
-
+        
+        walking_time: str = gmaps.directions(house_coords, activity_coords, mode = 'walking')[0]['legs'][0]['duration']['text']
         bicycling_time: str = gmaps.directions(house_coords, activity_coords, mode = 'bicycling')[0]['legs'][0]['duration']['text']
         driving_time: str = gmaps.directions(house_coords, activity_coords, mode = 'driving')[0]['legs'][0]['duration']['text']
-
+        
+        output_df.at[index, 'Walking_total_minutes'] = string_to_minutes(walking_time)
         output_df.at[index, 'Bicycling_total_minutes'] = string_to_minutes(bicycling_time)
         output_df.at[index, 'Driving_total_minutes'] = string_to_minutes(driving_time)
     

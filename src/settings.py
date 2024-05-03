@@ -5,7 +5,7 @@ class Settings():
     basedir: Path = Path.cwd()
     rawdir: Path = basedir / "data" / "raw"
     outputdir: Path = basedir / "data" / "processed"
-    raw_processed_filename: str = "Huisjes.xlsx"
+    raw_processed_filename: str = "Houses.xlsx"
     logdir: Path = basedir / "log"
     gmaps_api_key: str = open('gmaps_api_key.txt').read()
     
@@ -20,16 +20,7 @@ class Settings():
         "Activity_type",
     ]
 
-    type_activities: list = [
-        "Supermarkt",
-        "Zwembad",
-        "Klimbos",
-        "VR Game",
-        "Lasergame",
-        "Escaperoom",
-        "Pretpark",
-        "Basic Fit"
-    ]
+    type_activities: list = open('search_terms.txt').read().split('\n')
 
 settings = Settings()
 logger.add("logfile.log")
