@@ -23,13 +23,13 @@ data: which contains 2 folders:
 
 <h2>Installation (one time only)</h2>
 <ol>
+    <li>Install all dependencies via poetry by typing <code>poetry install</code> in the terminal</li>
     <li>Generate an API-key, following the steps of <a href="https://developers.google.com/maps/documentation/embed/get-api-key">this link</a>. It's completely free, but you need a Google-account.</li>
     <li>In the base folder, make a .txt-file and name it <code>gmaps_api_key</code>. Place your generated API-key in this file (don't surround it with single or double quotes). Make sure you close it when you continue to the next step.</li>
 </ol>
 
 <h2>Usage</h2>
 <ol>
-    <li>
     <li>Open the search_terms.txt-file in the base folder. Here, you specify all nearby activity types that you want Google Maps to search for. Put each type on a separate line. The first time you use this application, you see my example of filling this file. Feel free to change it to your own search terms! </li>
     <li>Run main.py (in the src-folder), make sure you have an active internet connection. After running, open the Excel-file "Huisjes" (data-folder -> processed-folder). You can now start analyzing and choosing your favorite vacational activities, enjoy! :-)</li>
 </ol>
