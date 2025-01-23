@@ -31,6 +31,6 @@ data: which contains 2 folders:
 <h2>Usage</h2>
 <ol>
     <li>Navigate to the data/raw-folder and add the addresses and corresponding residences in Houses.xlsx. Make sure to close this file when you're done</li> 
-    <li>Open the search_terms.txt-file in the base folder. Here, you specify all nearby activity types that you want Google Maps to search for. Put each type on a separate line. The first time you use this application, you see my example of filling this file. Feel free to change it to your own search terms! </li>
+    <li>Open the search_terms.txt-file in the base folder. Here, you specify all nearby activity types that you want Google Maps to search for. Put each type on a separate line. The first time you use this application, you see my example of filling this file. N.B.: "Sex Shop" makes the script very slow, in The Netherlands at least :-). So feel free to change it to your own search terms! </li>
     <li>Run main.py (in the src-folder), make sure you have an active internet connection. After running, open the Excel-file "Huisjes" (data-folder -> processed-folder). You can now start analyzing and choosing your favorite vacational activities, enjoy! :-)</li>
 </ol>
